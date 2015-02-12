@@ -1,0 +1,56 @@
+---
+abstract: 'Install the Tickit::Widget modules.'
+author:
+  - 'Michal Spacek <skim@cpan.org>'
+build_requires:
+  English: 0
+  ExtUtils::MakeMaker: 6.36
+  File::Object: 0.08
+  Test::More: 0
+  Test::NoWarnings: 0
+  Test::Pod: 0
+  Test::Pod::Coverage: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.36
+distribution_type: module
+dynamic_config: 1
+generated_by: 'Module::Install version 1.14'
+license: bsd
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Task-Tickit-Widget
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Tickit: 0.5
+  Tickit::Widget::Breadcrumb: 0.003
+  Tickit::Widget::Calendars: 0.001
+  Tickit::Widget::Choice: 0.01
+  Tickit::Widget::Decoration: 0.004
+  Tickit::Widget::FileViewer: 0.004
+  Tickit::Widget::FloatBox: 0.02
+  Tickit::Widget::Layout::Desktop: 0.009
+  Tickit::Widget::Layout::Relative: 0.005
+  Tickit::Widget::LogAny: 0.004
+  Tickit::Widget::Menu: 0.09
+  Tickit::Widget::Progressbar: 0.101
+  Tickit::Widget::ScrollBox: 0.05
+  Tickit::Widget::SegmentDisplay: 0.03
+  Tickit::Widget::SparkLine: 0.104
+  Tickit::Widget::Statusbar: 0.004
+  Tickit::Widget::Tabbed: 0.017
+  Tickit::Widget::Table: 0.214
+  Tickit::Widget::Table::Paged: 0.004
+  Tickit::Widget::Tree: 0.114
+  Tickit::Widget::VHBox: 0.001
+  Tickit::Widgets: 0.19
+  perl: 5.6.0
+resources:
+  bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Task-Tickit-Widget
+  homepage: https://github.com/tupinek/Task-Tickit-Widget
+  license: http://opensource.org/licenses/bsd-license.php
+  repository: git://github.com/tupinek/Task-Tickit-Widget
+version: '0.01'

@@ -1,0 +1,49 @@
+NAME
+    Task::Tickit::Widget - Install the Tickit::Widget modules.
+
+SYNOPSIS
+     cpanm Task::Tickit::Widget
+
+SEE ALSO
+    Tickit-Widget, Tickit-Widget-Border, Tickit-Widget-Box,
+    Tickit-Widget-Breadcrumb, Tickit-Widget-Button,
+    Tickit-Widget-Calendar-MonthView, Tickit-Widget-CheckButton,
+    Tickit-Widget-Choice, Tickit-Widget-Decoration, Tickit-Widget-Entry,
+    Tickit-Widget-FileViewer, Tickit-Widget-Fill, Tickit-Widget-FloatBox,
+    Tickit-Widget-Frame, Tickit-Widget-GridBox, Tickit-Widget-HBox,
+    Tickit-Widget-HSplit, Tickit-Widget-Layout-Desktop,
+    Tickit-Widget-Layout-Relative, Tickit-Widget-LinearBox,
+    Tickit-Widget-LinearSplit, Tickit-Widget-LogAny, Tickit-Widget-Menu,
+    Tickit-Widget-MenuBar, Tickit-Widget-Menu-Item, Tickit-Widget-Placegrid,
+    Tickit-Widget-Progressbar, Tickit-Widget-Progressbar-Horizontal,
+    Tickit-Widget-Progressbar-Vertical, Tickit-Widget-RadioButton,
+    Tickit-Widget-ScrollBox, Tickit-Widget-ScrollBox-Extent,
+    Tickit-Widget-Scroller, Tickit-Widget-Scroller-Item,
+    Tickit-Widget-Scroller-Item-RichText, Tickit-Widget-Scroller-Item-Text,
+    Tickit-Widget-SegmentDisplay, Tickit-Widget-SparkLine,
+    Tickit-Widget-Spinner, Tickit-Widget-Static, Tickit-Widget-Statusbar,
+    Tickit-Widget-Statusbar-Clock, Tickit-Widget-Statusbar-CPU,
+    Tickit-Widget-Statusbar-Memory, Tickit-Widget-Statusbar-WidgetList,
+    Tickit-Widget-Tabbed, Tickit-Widget-Tabbed-Ribbon, Tickit-Widget-Table,
+    Tickit-Widget-Table-Cell, Tickit-Widget-Table-Column,
+    Tickit-Widget-Table-HeaderCell, Tickit-Widget-Table-HeaderRow,
+    Tickit-Widget-Table-Highlight, Tickit-Widget-Table-Paged,
+    Tickit-Widget-Table-Row, Tickit-Widget-Tree, Tickit-Widget-VBox,
+    Tickit-Widget-VHBox, Tickit-Widget-VSplit, Tickit-Widgets.
+
+REPOSITORY
+    <https://github.com/tupinek/Task-Tickit-Widget>
+
+AUTHOR
+    Michal Špaček <mailto:skim@cpan.org>
+
+    <http://skim.cz>
+
+LICENSE AND COPYRIGHT
+     © 2015 Michal Špaček
+     Artistic License
+     BSD 2-Clause License
+
+VERSION
+    0.01
+

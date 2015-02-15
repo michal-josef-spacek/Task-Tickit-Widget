@@ -17,6 +17,7 @@ requires 'Tickit::Widget::Calendars' => 0.001;
 requires 'Tickit::Widget::Choice' => 0.01;
 requires 'Tickit::Widget::Decoration' => 0.004;
 requires 'Tickit::Widget::FileViewer' => 0.004;
+requires 'Tickit::Widget::Figlet' => 0.002;
 requires 'Tickit::Widget::FloatBox' => 0.02;
 requires 'Tickit::Widget::Layout::Desktop' => 0.009;
 requires 'Tickit::Widget::Layout::Relative' => 0.005;

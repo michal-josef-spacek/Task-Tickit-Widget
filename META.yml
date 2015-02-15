@@ -30,6 +30,7 @@ requires:
   Tickit::Widget::Calendars: 0.001
   Tickit::Widget::Choice: 0.01
   Tickit::Widget::Decoration: 0.004
+  Tickit::Widget::Figlet: 0.002
   Tickit::Widget::FileViewer: 0.004
   Tickit::Widget::FloatBox: 0.02
   Tickit::Widget::Layout::Desktop: 0.009

@@ -32,7 +32,7 @@ requires:
   Tickit::Widget::Decoration: 0.004
   Tickit::Widget::Figlet: 0.003
   Tickit::Widget::FileViewer: 0.004
-  Tickit::Widget::FloatBox: 0.02
+  Tickit::Widget::FloatBox: 0.03
   Tickit::Widget::Layout::Desktop: 0.009
   Tickit::Widget::Layout::Relative: 0.005
   Tickit::Widget::LogAny: 0.004

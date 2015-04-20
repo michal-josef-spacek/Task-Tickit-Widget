@@ -42,7 +42,7 @@ requires:
   Tickit::Widget::SegmentDisplay: 0.03
   Tickit::Widget::SparkLine: 0.104
   Tickit::Widget::Statusbar: 0.004
-  Tickit::Widget::Tabbed: 0.017
+  Tickit::Widget::Tabbed: 0.018
   Tickit::Widget::Table: 0.214
   Tickit::Widget::Table::Paged: 0.004
   Tickit::Widget::Tree: 0.114

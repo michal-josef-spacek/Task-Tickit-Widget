@@ -14,34 +14,34 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 31a839ec15f5419a0089f13b38a5b7b69e9711b2 Changes
+SHA1 d545895c409789962418ae260707cb8c7e809923 Changes
 SHA1 fda23a0b314432c4a81e8d7beb5290e9f0219c73 LICENSE
 SHA1 c79b1ea8bda36734ec17bad2788f5ad48b43dbd8 MANIFEST
-SHA1 49f7a3b2b188335e8dc2bc84705400941c6f681e META.yml
-SHA1 ddda90e693a0e9870814d99f6176157c9f00c25e Makefile.PL
-SHA1 95525bb6053a709152848b4cec4a065b04f5401c README
-SHA1 38fbba1fa5f67bcbf8054058f495afc081866937 Widget.pm
-SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
-SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
-SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
-SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
-SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
-SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 2d13099db0f33d3ea87ce32c2be5863b40782248 META.yml
+SHA1 06ea43dab4d0e2cb8a8be6b4ffd667b6b0bee7cb Makefile.PL
+SHA1 c0aae8da3696d997c392cc58d4c09fed5d92ae01 README
+SHA1 c427915a01f1ef86552cbcbf33783f61b735c70c Widget.pm
+SHA1 25c34611d32f04c8f31f0954738d4f9ad1445e58 inc/Module/Install.pm
+SHA1 873e0c701d5fcbda91b69351072829d23cd4ea39 inc/Module/Install/Base.pm
+SHA1 195f689404849bd6e725a24c0e574fced7a5c450 inc/Module/Install/Can.pm
+SHA1 7ca66de454258074c191b5e1012dffacffc5c42d inc/Module/Install/Fetch.pm
+SHA1 07be064784c1689db53d4e969dacf26480eeba97 inc/Module/Install/Makefile.pm
+SHA1 2617a7b4d9e96e4840ec973a6f99f645d8dd2e27 inc/Module/Install/Metadata.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
-SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
-SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
+SHA1 a0fdfa64dbe46ce06b058a062020b6bf0e8ff793 inc/Module/Install/Win32.pm
+SHA1 118cc99ef1d3441d6e3f17fabd778438926119d5 inc/Module/Install/WriteAll.pm
 SHA1 63a492639c0995a19e91f8f48c8d48eab4d4cded t/Task-Tickit-Widget/00-use.t
-SHA1 26cf70013981e6dc9f0e06da000914b5c6c11726 t/Task-Tickit-Widget/01-version.t
+SHA1 4ef4b66fabb02d02030147f0ce33cf4659eaf277 t/Task-Tickit-Widget/01-version.t
 SHA1 ee88bf955483f5fe4536492540e838ef9aeeb175 t/Task-Tickit-Widget/02-pod_coverage.t
 SHA1 de01c84073b07fd7c05e91afd7e8cd6709f2dcac t/Task-Tickit-Widget/03-pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.12 (GNU/Linux)
 
-iQEcBAEBAgAGBQJU3PEOAAoJEJe+XXKaIuTlwXkH/jC3CrPWEX0/yX0JwpWIyXEg
-SKafe9B8f4JRMhma/vfr9TWgWKhyev5WG13FlZp6kjeQYl+ZvvCE40eGS4cgdhjj
-PfArFP6RXOJYfgCL8ww1gqFtEubcM+bhY+dmu10VbsTo+IvgL+ijNmGYUowdPIaZ
-LNVrSrgcQxN2MEhqarspCfDLisi2D62LzKDjgG4bXx22H1zSIGcQbGCD2Vv6FP3s
-/ioXEay0CPAtU6VcRuAcfRZytg3m/aqxIr5wPEHRsyZZLopeOsF/I7e8ycq2Zm4j
-31u2fFSxXvRpw65bO5Nle4QANRHJUkZeb7Zn5aDXq8+ihlUXuyp8zR7/O6ZWspo=
-=s3Tv
+iQEcBAEBAgAGBQJVNNYkAAoJEJe+XXKaIuTlhJgIAJfauKy3VBPSgoYwZ5oQEwif
+G3clkWMKm6jJaFQaL3WXU8rPvxA1Iv3ATg7leU/t0DN31TymqwVCsewB8BsD5bI9
+sO5VpSI+dnODdTe5gGjJhDHUsqGfV1ONHRXHmpISolqowkonJ+0EaLvex4dGQOZR
+sxdJcWrhao6DGO5XE0ixpu2SX8eM4XFbd7SmazWphCIkSAGdcHxpY+lAy50ey48g
+aR3iOrxIokpwbgiW7aAno1iCdzUk5OiewEOVWwiKRnbHNdn2Nl48UKaRpvMF/r+a
+WwXASL1oXwOxZ6cpCmNCMtjRrgFRy/O6DDshhL+uCGUDgjtLdPlSunHSLhhzdtw=
+=8UBv
 -----END PGP SIGNATURE-----

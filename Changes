@@ -1,4 +1,4 @@
-0.02
+0.02 2015-04-20T12:34:07+02:00
  - Add Tickit::Widget::Figlet 0.003 version.
  - Add Tickit::Widget::Term 0.002 version.
  - Update Module::Install to 1.15 version.

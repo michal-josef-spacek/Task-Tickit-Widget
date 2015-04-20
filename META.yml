@@ -45,6 +45,7 @@ requires:
   Tickit::Widget::Tabbed: 0.018
   Tickit::Widget::Table: 0.214
   Tickit::Widget::Table::Paged: 0.004
+  Tickit::Widget::Term: 0.002
   Tickit::Widget::Tree: 0.114
   Tickit::Widget::VHBox: 0.001
   Tickit::Widgets: 0.19

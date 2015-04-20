@@ -31,6 +31,7 @@ requires 'Tickit::Widget::Statusbar' => 0.004;
 requires 'Tickit::Widget::Tabbed' => 0.018;
 requires 'Tickit::Widget::Table' => 0.214;
 requires 'Tickit::Widget::Table::Paged' => 0.004;
+requires 'Tickit::Widget::Term' => 0.002;
 requires 'Tickit::Widget::Tree' => 0.114;
 requires 'Tickit::Widget::VHBox' => 0.001;
 requires 'Tickit::Widgets' => 0.19;

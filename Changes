@@ -2,6 +2,7 @@
  - Update Module::Install to 1.16 version.
  - Update Tickit to 0.53 version.
  - Update Tickit::Widget::FloatBox to 0.03 version.
+ - Update Tickit::Widget::SparkLine to 0.105 version.
  - Update Tickit::Widgets to 0.20 version.
 
 0.02 2015-04-20T12:34:07+02:00

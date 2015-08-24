@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.70.
+signed via the Module::Signature module, version 0.79.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,34 +14,34 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 d545895c409789962418ae260707cb8c7e809923 Changes
+SHA1 421e217f734e99cdc35ba50d6c9e169e715cd329 Changes
 SHA1 fda23a0b314432c4a81e8d7beb5290e9f0219c73 LICENSE
 SHA1 c79b1ea8bda36734ec17bad2788f5ad48b43dbd8 MANIFEST
-SHA1 2d13099db0f33d3ea87ce32c2be5863b40782248 META.yml
-SHA1 06ea43dab4d0e2cb8a8be6b4ffd667b6b0bee7cb Makefile.PL
-SHA1 c0aae8da3696d997c392cc58d4c09fed5d92ae01 README
-SHA1 c427915a01f1ef86552cbcbf33783f61b735c70c Widget.pm
-SHA1 25c34611d32f04c8f31f0954738d4f9ad1445e58 inc/Module/Install.pm
-SHA1 873e0c701d5fcbda91b69351072829d23cd4ea39 inc/Module/Install/Base.pm
-SHA1 195f689404849bd6e725a24c0e574fced7a5c450 inc/Module/Install/Can.pm
-SHA1 7ca66de454258074c191b5e1012dffacffc5c42d inc/Module/Install/Fetch.pm
-SHA1 07be064784c1689db53d4e969dacf26480eeba97 inc/Module/Install/Makefile.pm
-SHA1 2617a7b4d9e96e4840ec973a6f99f645d8dd2e27 inc/Module/Install/Metadata.pm
+SHA1 eef331d25b5f04c1d92f2e08cb8587d3cb62e7eb META.yml
+SHA1 1ff83e813bbad80f410f08e0d7c5d64042169f69 Makefile.PL
+SHA1 387af71c067e180b8fed867ca76d4a8fa646a62d README
+SHA1 a7084874f9b4098139a67fbe80373318f8b4e937 Widget.pm
+SHA1 bce3c51bb369419603298064b78e14077b93af66 inc/Module/Install.pm
+SHA1 fe220f215f645500ce8f14ff5e19d9a28692af56 inc/Module/Install/Base.pm
+SHA1 b56ed8e42c600e08007d152cf0b1438a7c3b7f6e inc/Module/Install/Can.pm
+SHA1 99c531a17a67ce5250df2ae151cc48c80d914cde inc/Module/Install/Fetch.pm
+SHA1 76efdca3603159e0ae0e18f19fe72a0211a69529 inc/Module/Install/Makefile.pm
+SHA1 2e33e87882d60db3913da6284dd5295e5315e18a inc/Module/Install/Metadata.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
-SHA1 a0fdfa64dbe46ce06b058a062020b6bf0e8ff793 inc/Module/Install/Win32.pm
-SHA1 118cc99ef1d3441d6e3f17fabd778438926119d5 inc/Module/Install/WriteAll.pm
+SHA1 c830b819e61bda5eca077c6291293bba61b3b9f2 inc/Module/Install/Win32.pm
+SHA1 cb52b9d6f88d512d448a6f35ed0af0d1201a134b inc/Module/Install/WriteAll.pm
 SHA1 63a492639c0995a19e91f8f48c8d48eab4d4cded t/Task-Tickit-Widget/00-use.t
-SHA1 4ef4b66fabb02d02030147f0ce33cf4659eaf277 t/Task-Tickit-Widget/01-version.t
+SHA1 318ac09ec2e6a657cd7291d7b00d2dc5d7330c2f t/Task-Tickit-Widget/01-version.t
 SHA1 ee88bf955483f5fe4536492540e838ef9aeeb175 t/Task-Tickit-Widget/02-pod_coverage.t
 SHA1 de01c84073b07fd7c05e91afd7e8cd6709f2dcac t/Task-Tickit-Widget/03-pod.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.12 (GNU/Linux)
+Version: GnuPG v1
 
-iQEcBAEBAgAGBQJVNNYkAAoJEJe+XXKaIuTlhJgIAJfauKy3VBPSgoYwZ5oQEwif
-G3clkWMKm6jJaFQaL3WXU8rPvxA1Iv3ATg7leU/t0DN31TymqwVCsewB8BsD5bI9
-sO5VpSI+dnODdTe5gGjJhDHUsqGfV1ONHRXHmpISolqowkonJ+0EaLvex4dGQOZR
-sxdJcWrhao6DGO5XE0ixpu2SX8eM4XFbd7SmazWphCIkSAGdcHxpY+lAy50ey48g
-aR3iOrxIokpwbgiW7aAno1iCdzUk5OiewEOVWwiKRnbHNdn2Nl48UKaRpvMF/r+a
-WwXASL1oXwOxZ6cpCmNCMtjRrgFRy/O6DDshhL+uCGUDgjtLdPlSunHSLhhzdtw=
-=8UBv
+iQEcBAEBAgAGBQJV25iRAAoJEJe+XXKaIuTl79MH/2hbrVUko7NIlqj9cla+q+YX
+d6JFvnrBfu0bQIOOjW0Q8+cZq3CpxwOPtxva4HQ403cz7rQRiF+EEkub+l8E70ac
+AfxbGQK3bWZzNCfoXKaS5EFEI7ttTcpT3hJgLSNVMgFXRjAuLJ+C1A6moLNR/Kwk
+CnPixR3/Pi4SrgbIadMG8i/HT7OuTRcoq603yANq+v1W+QZZ9lDaqFuAWs3Pw5gR
+BdiIzcr4Xi7NCeSr2jBmddO8a7p1B3UH8pIRlwbwAOPsRs2SAQo5KcK5hItkJCnd
+Wlfnq2swBKahOqf/sspzYWxscOOOmV9C5xo0pOnZORRe0mPufrK/nGXbKYTCRjY=
+=IPSa
 -----END PGP SIGNATURE-----

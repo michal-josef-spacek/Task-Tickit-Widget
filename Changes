@@ -1,4 +1,5 @@
 0.03
+ - Add Tickit::Widget::Scroller 0.19 version.
  - Update Module::Install to 1.16 version.
  - Update Tickit to 0.53 version.
  - Update Tickit::Widget::FloatBox to 0.03 version.

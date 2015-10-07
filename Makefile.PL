@@ -8,9 +8,16 @@ use inc::Module::Install;
 # Definition.
 abstract 'Install the Tickit::Widget modules.';
 author 'Michal Spacek <skim@cpan.org>';
+author_requires 'English' => 0;
+author_requires 'File::Object' => 0.08;
+author_requires 'Test::More' => 0;
+author_requires 'Test::NoWarnings' => 0;
+author_requires 'Test::Pod' => 0;
+author_requires 'Test::Pod::Coverage' => 0;
 license 'bsd';
 name 'Task-Tickit-Widget';
 readme_from 'Widget.pm';
+recursive_author_tests('xt');
 requires 'Tickit::Widget::Breadcrumb' => 0.003;
 requires 'Tickit::Widget::Calendars' => 0.001;
 requires 'Tickit::Widget::Choice' => 0.01;
@@ -40,12 +47,8 @@ resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Task-Tickit-Widget';
 resources 'homepage' => 'https://github.com/tupinek/Task-Tickit-Widget';
 resources 'repository' => 'git://github.com/tupinek/Task-Tickit-Widget';
-test_requires 'English' => 0;
-test_requires 'File::Object' => 0.08;
 test_requires 'Test::More' => 0;
 test_requires 'Test::NoWarnings' => 0;
-test_requires 'Test::Pod' => 0;
-test_requires 'Test::Pod::Coverage' => 0;
 tests_recursive;
 version '0.04';
 

@@ -11,7 +11,6 @@ author 'Michal Spacek <skim@cpan.org>';
 license 'bsd';
 name 'Task-Tickit-Widget';
 readme_from 'Widget.pm';
-requires 'Tickit' => 0.53;
 requires 'Tickit::Widget::Breadcrumb' => 0.003;
 requires 'Tickit::Widget::Calendars' => 0.001;
 requires 'Tickit::Widget::Choice' => 0.01;

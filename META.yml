@@ -25,7 +25,6 @@ no_index:
     - inc
     - t
 requires:
-  Tickit: 0.53
   Tickit::Widget::Breadcrumb: 0.003
   Tickit::Widget::Calendars: 0.001
   Tickit::Widget::Choice: 0.01

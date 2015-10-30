@@ -1,3 +1,5 @@
+0.05
+
 0.04 2015-10-30T08:48:31+01:00
  - Move author tests to xt/ directory.
  - Remove Tickit dependency, there are no widgets now.

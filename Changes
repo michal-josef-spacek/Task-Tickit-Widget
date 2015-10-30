@@ -1,6 +1,7 @@
 0.04
  - Move author tests to xt/ directory.
  - Remove Tickit dependency, there are no widgets now.
+ - Update Tickit::Widget::SegmentDisplay to 0.04 version.
  - Update Tickit::Widgets to 0.21 version.
 
 0.03 2015-08-25T00:19:59+02:00

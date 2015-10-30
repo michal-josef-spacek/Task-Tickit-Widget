@@ -45,7 +45,7 @@ requires:
   Tickit::Widget::Term: 0.002
   Tickit::Widget::Tree: 0.114
   Tickit::Widget::VHBox: 0.001
-  Tickit::Widgets: 0.2
+  Tickit::Widgets: 0.21
   perl: 5.6.0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Task-Tickit-Widget

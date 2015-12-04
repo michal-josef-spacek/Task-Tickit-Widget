@@ -20,7 +20,7 @@ readme_from 'Widget.pm';
 recursive_author_tests('xt');
 requires 'Tickit::Widget::Breadcrumb' => 0.003;
 requires 'Tickit::Widget::Calendars' => 0.001;
-requires 'Tickit::Widget::Choice' => 0.01;
+requires 'Tickit::Widget::Choice' => 0.02;
 requires 'Tickit::Widget::Decoration' => 0.004;
 requires 'Tickit::Widget::FileViewer' => 0.004;
 requires 'Tickit::Widget::Figlet' => 0.003;

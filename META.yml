@@ -24,7 +24,7 @@ no_index:
 requires:
   Tickit::Widget::Breadcrumb: 0.003
   Tickit::Widget::Calendars: 0.001
-  Tickit::Widget::Choice: 0.01
+  Tickit::Widget::Choice: 0.02
   Tickit::Widget::Decoration: 0.004
   Tickit::Widget::Figlet: 0.003
   Tickit::Widget::FileViewer: 0.004

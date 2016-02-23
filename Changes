@@ -1,5 +1,6 @@
 0.05
  - Update Tickit::Widget::Choice to 0.02 version.
+ - Update Tickit::Widget::ScrollBox to 0.07 version.
  - Update Tickit::Widget::Scroller to 0.22 version.
  - Update Tickit::Widgets to 0.22 version.
 

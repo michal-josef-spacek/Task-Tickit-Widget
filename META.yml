@@ -35,7 +35,7 @@ requires:
   Tickit::Widget::Menu: 0.09
   Tickit::Widget::Progressbar: 0.101
   Tickit::Widget::ScrollBox: 0.06
-  Tickit::Widget::Scroller: 0.19
+  Tickit::Widget::Scroller: 0.22
   Tickit::Widget::SegmentDisplay: 0.04
   Tickit::Widget::SparkLine: 0.105
   Tickit::Widget::Statusbar: 0.004
